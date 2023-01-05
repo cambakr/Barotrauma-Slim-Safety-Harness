@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentpackage name="Slim Safety Harness" modversion="1.0.0" corepackage="False" steamworkshopid="2911642595" gameversion="0.20.16.1">
+  <Item file="%ModDir%/Items/Jobgear/Mechanic/slim-safety-harness.xml" />
+  <Other file="%ModDir%/Items/Jobgear/Mechanic/slim-safety-harness.png" />
+</contentpackage>
